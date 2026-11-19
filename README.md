@@ -35,11 +35,3 @@ The primary goals of this project are to:
 4. Practise automated testing, debugging, and error handling.
 5. Develop maintainable, well-organised, and documented software.
 6. Build a professional GitHub portfolio project demonstrating independent software development skills.
-
-## Development Status
-
-**Status:** In development — Milestone 1: Project Planning
-
-The project is being developed incrementally, with functionality introduced through defined milestones.
-
-Future updates to this README will include installation instructions, gameplay examples, available commands, and testing guidance as development progresses.
